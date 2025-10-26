@@ -1,0 +1,7 @@
+pyspark
+pandas
+matplotlib
+seaborn
+requests
+urllib3
+ydata-profiling

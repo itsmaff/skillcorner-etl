@@ -1,0 +1,40 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+*.ipynb_out.json
+
+# --- Data & Outputs ---
+data/
+# exports/
+*.csv
+*.parquet
+*.json
+*.zip
+
+# --- Logs & Temp Files ---
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Colab / Jupyter ---
+.colab/
+jupyter_cache/
+.jupyter/
