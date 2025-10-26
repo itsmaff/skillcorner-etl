@@ -17,7 +17,7 @@ env/
 # --- Data & Outputs ---
 data/
 # exports/
-*.csv
+# *.csv
 *.parquet
 *.json
 *.zip
