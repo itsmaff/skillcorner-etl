@@ -4,7 +4,7 @@ This architecture diagram illustrates the **end-to-end data flow** implemented i
 It follows a **Medallion-style design** — progressing from raw ingested data through structured, validated, and aggregated layers to downstream consumption.
 
 <p align="center">
-  <img src="./Data_Flow_Architecture.png.png" alt="Data Flow Architecture" width="90%">
+  <img src="./Data_Flow_Architecture.png" alt="Data Flow Architecture" width="90%">
 </p>
 
 ## Overview
