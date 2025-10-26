@@ -79,8 +79,8 @@ This notebook runs entirely in **Google Colab**, with no external dependencies b
 |--------------|------|--------------|
 | Notebook | `notebooks/SkillCorner_ETL.ipynb` | End-to-end ETL notebook |
 | Final CSV | `exports/player_aggregated_metrics.csv` | Combined player metrics (sprints, passes, shots) |
-| Mock IaC | `infrastructure/terraform_skillcorner_pipeline.tf` | Simulated AWS IaC (to be added) |
-| Diagram | `infrastructure/etl_orchestration.png` | Pipeline architecture diagram (to be added) |
+| Mock IaC | `infrastructure/*.tf` | Simulated S3 IaC | Update this
+| Diagram | `infrastructure/Data_Flow_Architecture.png` | Pipeline architecture diagram |
 
 ---
 
